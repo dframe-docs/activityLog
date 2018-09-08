@@ -95,7 +95,7 @@ Usage example
  require_once __DIR__ . '/../../vendor/autoload.php';
 
  $log = (new Activity(new FileLog()));
- $log->log('Hello Word!')->entity(\Dframe\ActivityLog\Demo\Entity\Action::class'])->push();
+ $log->log('Hello Word!')->entity(\Dframe\ActivityLog\Demo\Entity\Action::class)->push();
 
 
 PSR-3 Adapter
