@@ -1,7 +1,12 @@
+.. title:: ActivityLog - A simple system for handling logs with a templat system
+
+.. meta::
+    :description: Najprostszy log jest akcji, nie przyjmuje on żadnych parametrów, jedynie informacje w poniższym przykładnie ze użytkownik odświeżył stronę. 
+    :keywords: dframe, log, psr3, logger, log system
+    
 Simple logs
 ====
-
-The simplest log is action log. He has not any parms. The only one is that the user has refreshed the page.
+A simple system for handling logs with a templat system. The simplest log is action log. He has not any parms. The only one is that the user has refreshed the page.
 
 Instalation
 ----------
