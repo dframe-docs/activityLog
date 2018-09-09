@@ -8,17 +8,6 @@ Simple logs
 ====
 A simple system for handling logs with a templat system. The simplest log is action log. He has not any parms. The only one is that the user has refreshed the page.
 
-Instalation
-----------
-
-From console level, launch the command composer* 
-
-.. code-block:: bash
-
- $ composer require dframe/activitylog
-
-Or download manual https://github.com/dframe/activityLog/releases
-
 
 Usage example
 ====
