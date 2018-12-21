@@ -77,6 +77,8 @@ Now, try to make a log with some parms. However before begin, we have to have ap
 
 .. code-block:: php
 
+ namespace Libs\Extensions\ActivityLog;
+
  class Change
  {
      /**
